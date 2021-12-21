@@ -152,4 +152,9 @@ cython_debug/
 #.idea/
 
 
+*.swp
+*.exe
+*.out
+.vscode/
+build/
 _
